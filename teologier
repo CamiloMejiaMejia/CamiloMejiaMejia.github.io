@@ -1,6 +1,12 @@
 <!DOCTYPE html>
-<html>
-<body>
-  <h2 class="title">Internet</h2>
-</body>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <title>La titraille</title>
+       
+    </head>
+    <body>
+        <h1> Mon site snt </h1>
+		<h2> Internet </h2>
+    </body>
 </html>
